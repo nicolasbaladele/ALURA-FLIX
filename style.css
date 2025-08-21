@@ -8,49 +8,10 @@ header {border-bottom: solid 4px rgb(179, 255, 0);
 padding:10px;
 font-size: 32px;
 color:rgb(168, 255, 157);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+section{background: yellow;
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
 }
